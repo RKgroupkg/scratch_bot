@@ -1,4 +1,4 @@
-import scratchattach as scratch3
+import scratchattach as scratch3 # import the library
 
  
 Studio_ID = 33688186 # studio invite link (no) past your studio no
