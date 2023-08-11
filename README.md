@@ -10,4 +10,4 @@ Things needed:-
 
 # Studio_invite_bot
 1. invite users from trending project comments (top 20 recent one) and send them invite link (file :- "Invite_bot_featured(project comment).py")
-2. 
+2. invite user from people followers (i.g :- griffpatch followers ) (file- "")
