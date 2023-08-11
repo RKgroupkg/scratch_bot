@@ -9,3 +9,5 @@ Things needed:-
 4. laptop
 
 # Studio_invite_bot
+1. invite users from trending project comments (top 20 recent one) and send them invite link (file :- "")
+2. 
